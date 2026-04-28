@@ -1,0 +1,6 @@
+Coding Plan（订阅） 
+    └── 购买使用权 ──▶ 产品（Copilot / Claude Code / Codex）
+                          └── 采用 Agent 范式 ──▶ 调用底层模型（LLM）
+
+简而言之：模型是能力源，Agent 是使用范式，Copilot/Claude Code/Codex 是产品实现，Coding Plan 是商业包装
+
